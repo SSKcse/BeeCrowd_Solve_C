@@ -12,10 +12,8 @@ git status
 git push
 
 git push origin mian
-
-
-
 */
+
 int main()
 {
     printf("Hello World!\n");
