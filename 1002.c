@@ -3,6 +3,9 @@
 int main()
 {
 
+/*Test*/
+
+
     double A,R,n;
 
     scanf("%lf", &R);
