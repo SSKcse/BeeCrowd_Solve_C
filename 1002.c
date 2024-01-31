@@ -1,11 +1,5 @@
 #include<stdio.h>
 
-
-
-/*
-SHuvo Karamer
-
-*/
 int main()
 {
 
