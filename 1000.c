@@ -1,6 +1,5 @@
 #include<stdio.h>
 /*
-
 github 
 
 git add .
