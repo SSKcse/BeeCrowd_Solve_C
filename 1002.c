@@ -3,6 +3,9 @@
 int main()
 {
 
+
+
+
     double A,R,n;
 
     scanf("%lf", &R);
